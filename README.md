@@ -133,7 +133,7 @@ All scripts display a real‑time progress bar:
 
 ---
 
-## ⚙️ Dependencies (package.json)
+## ⚙️ Dependencies (`package.json`)
 
 ```json
 {
@@ -156,11 +156,6 @@ All scripts display a real‑time progress bar:
 }
 ```
 
-Install dependencies:
-```bash
-npm install
-```
-
 ---
 
 ## 👑 Credits
@@ -177,3 +172,6 @@ npm install
 MIT – see [LICENSE](LICENSE).
 
 ---
+
+> *“Nexreaper”*
+```
